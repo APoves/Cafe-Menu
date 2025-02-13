@@ -5,7 +5,9 @@ Aprovechando mi nueva asignatura Lenguaje de Marcas, continúo con la certificac
 
 Proyecto 02 Cafe Menu.
 
-En este proyecto comienzo con los primeros pasos en HTML y CSS, hasta entonces casi desconocido éste último para mi. Continúo introduciéndome en la sintaxis básica y elemental de HTML, con sus diferentes tipografías, añadido de imágenes e iconos, creación de listas, diferentes selecciones, botones simples y enlaces.
+En este proyecto comienzo con los primeros pasos en HTML y CSS, hasta entonces casi desconocido éste último para mi, creando la carta de una cafetería.
+
+Continúo introduciéndome en la sintaxis básica y elemental de HTML, con sus diferentes tipografías, añadido de imágenes e iconos, creación de listas, diferentes selecciones, botones simples y enlaces.
 
 LinkedIn: www.linkedin.com/in/auroramarinapoves
 
