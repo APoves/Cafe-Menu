@@ -1,10 +1,11 @@
-## CatPhotoApp
-### CatPhotoApp HTML 
-Aprovechando mi nueva asignatura Lenguaje de Marcas, comienzo con la certificación de Diseño Web Responsivo, de la mano de FreeCodeCamp.
+## Cafe Menu
+### Cafe Menu
 
-Proyecto 01 Cat Photo App.
+Aprovechando mi nueva asignatura Lenguaje de Marcas, continúo con la certificación de Diseño Web Responsivo, de la mano de FreeCodeCamp.
 
-En este proyecto comienzo con los primeros pasos en HTML, donde he aprendido la sintaxis básica y elemental de HTML, con sus diferentes tipografías, añadido de imágenes, creación de listas, selección, botones simples y enlaces.
+Proyecto 02 Cafe Menu.
+
+En este proyecto comienzo con los primeros pasos en HTML y CSS, hasta entonces casi desconocido éste último para mi. Continúo introduciéndome en la sintaxis básica y elemental de HTML, con sus diferentes tipografías, añadido de imágenes e iconos, creación de listas, diferentes selecciones, botones simples y enlaces.
 
 LinkedIn: www.linkedin.com/in/auroramarinapoves
 
